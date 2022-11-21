@@ -1,5 +1,5 @@
 # Lab 8 - Starter
-Completed by Deze Lyu alone.
+Completed by Deze Lyu alone. Please see the "screenshot XXX test.png" files. Thanks.
 ###### Question (1)
 I choose (1) because it is mentioned in the paragraphs above: "code getting pushed to the remote repository..."
 ###### Question (2)
